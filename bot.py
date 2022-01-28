@@ -21,7 +21,7 @@ from pyrogram import Client, filters
 API_ID = environ.get('API_ID')
 API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
-API_KEY = environ.get('API_KEY', 'e3eddb3e7c5513eee187120fce788ddc4a1a643b')
+API_KEY = environ.get('API_KEY', '01b1b9de0212a93557525f857c44c041da8086d7')
 
 bot = Client('droplink bot',
              api_id=API_ID,
@@ -35,7 +35,7 @@ bot = Client('droplink bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "I'm a specialised bot for shortening Droplink.co links which can help you earn money by just sharing links. Made by <a href=\"https://t.me/Dads_links\">DADS LINKS</a>.")
+        "This a POWERFUL Droplink Genearator Bot. \nSend me a links Then see the magic ✨. \n\n**Made by** <a href=\"https://t.me/Dads_links\">**DADS LINKS**</a>.")
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
