@@ -35,7 +35,7 @@ bot = Client('droplink bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "This a POWERFUL Droplink Genearator Bot. \nSend me a links Then see the magic ✨. \n\n**Made by** <a href=\"https://t.me/Dads_links\">**DADS LINKS**</a>.")
+        "This a POWERFUL Droplink Genearator Bot. \nSend me a links Then see the magic ✨. \n\n**Made by** <a href=\"https://t.me/Doctorstra_1\">**Doctorstra**</a>.")
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
