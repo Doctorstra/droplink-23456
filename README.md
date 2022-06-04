@@ -8,8 +8,8 @@ Make short link by using [Droplink](https://droplink.co/) API key. Made by @Doct
 
 ### Installation
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Doctorstra/droplink-23456"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
-<a href="https://railway.app/new/template?template=https://github.com/Doctorstra/droplink-23456"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-purple?style=for-the-badge&logo=railway" width="200"/></a></p>
+<p><a href="https://heroku.com/deploy?"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
+<a href="https://railway.app"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-purple?style=for-the-badge&logo=railway" width="200"/></a></p>
 
 ##### Required Variables
 
