@@ -10,19 +10,19 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": "5345497191:AAE_Wm0LjOPY9o6Klcz7PG_FfB14IYNzZGg"
+            "value": "5345497191:AAEz7PG_FfB14IYNzZGg"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "11868181"
+            "value": "00000"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "4253e11b1e1d6406772492199b7f8942"
+            "value": "Tg api #"
         },
         "API_KEY": {
             "description": "Get API key from https://droplink.co/member/tools/api",
-            "value": "611e82f276467a5bd69dfd4dac9fe1eac825df0c"
+            "value": "Droplink api id"
         }
     },
     "addons": [],
